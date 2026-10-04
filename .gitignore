@@ -1,0 +1,8 @@
+firmware/.history
+firmware/.pio
+firmware/.vscode
+firmware/lib
+firmware/test
+firmware/include
+firmware/.gitignore
+firmware/platformio.ini
